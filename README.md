@@ -6,7 +6,7 @@
 /*                                                                        :::      ::::::::   */
 /*   42.Projects                                                         :+:      :+:    :+:  */
 /*                                                                    +:+ +:+         +:+     */
-/*   By: srossatt <srossatt@student.42malaga.com>                    +#+  +:+       +#+       */
+/*   By: srossatt                                                    +#+  +:+       +#+       */
 /*                                                                +#+#+#+#+#+   +#+           */
 /*   Created: 0000/00/00 00:00:00 by srossatt                          #+#    #+#             */
 /*   Updated: 0000/00/00 00:00:00 by srossatt                         ###   ########.fr       */
