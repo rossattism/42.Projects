@@ -20,8 +20,8 @@
 
 <p align="center"> <b>
 <a href="#about"> About 42 </a> • 
-<a href="#about"> Piscines </a> • 
-<a href="#header"> Cursus </a>  
+<a href="#about"> Piscine Projects </a> • 
+<a href="#header"> Cursus Projects</a>  
 </b> </p> 
 
 ## About 42
@@ -30,17 +30,18 @@
 
 Click <a href="https://42.fr/en/homepage/" />here</a> for further details.
 
-## Piscines
+## Piscines Projects
+The Piscines are <b>short immersive bootcamps</b> that aim to introduce participants to programming languages. </i>
 
 <p> <b> <a href="https://github.com/RossattiSM/42.Piscine" />C Piscine</a> </b> </p>
 
->The "C Piscine", a 26-day C programming bootcamp, is the selection process for becoming a former student.
+>A 26-day C programming bootcamp which is the selection process for becoming a former student.
 
 <p> <b> <a href="https://github.com/RossattiSM/42.Discovery-Web" />Discovery Web Piscine</a> </b> </p>
 
->The "Discovery Web Piscine" is a 5-day web development bootcamp which aims to introduce participants to web development.
+>A 5-day web bootcamp which aims to introduce participants to 42's methodology and web development.
 
-## Cursus
+## Cursus Projects
 
 <p> <b> Level 1: </b> Libft </p>
 
