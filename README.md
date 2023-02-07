@@ -45,6 +45,8 @@ The Piscines are <b>short immersive bootcamps</b> that aim to introduce particip
 
 >Libft is the first project as a former student. It consists of a static library with recoded standard functions in C that runs and compiles the code using a Makefile. The library can be used as a support in future school's projects, since it's not allowed to use the original functions.
 
+## Credits
+mewmewdevart: https://github.com/mewmewdevart/42Projects
 
 <hr>
 <a href="https://www.linkedin.com/in/rossattism/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png?raw=true" alt="Linkedin Logo" style="width: 20px; height: 20px" /></a> &nbsp;
