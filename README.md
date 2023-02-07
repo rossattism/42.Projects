@@ -19,12 +19,12 @@
 </p>
 
 <p align="center"> <b>
-<a href="#about-42"> About 42 </a> • 
+<a href="#about"> About </a> • 
 <a href="#piscines"> Piscines</a> • 
 <a href="#cursus"> Cursus</a>  
 </b> </p> 
 
-## About 42
+## About
 
 <i> 42 is a global education initiative that proposes a new way of learning technology: no teachers, no classrooms, peer to peer learning with a methodology that develops both computing and life skills. The 42 cursus is free for whoever is approved in its selection process. </i>
 
