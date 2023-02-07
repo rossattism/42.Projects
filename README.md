@@ -20,8 +20,8 @@
 
 <p align="center"> <b>
 <a href="#about-42"> About 42 </a> • 
-<a href="#piscines-projects"> Piscine Projects </a> • 
-<a href="#cursus-projects"> Cursus Projects</a>  
+<a href="#piscines-projects"> Piscines</a> • 
+<a href="#cursus-projects"> Cursus</a>  
 </b> </p> 
 
 ## About 42
