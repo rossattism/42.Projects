@@ -45,7 +45,7 @@ The Piscines are <b>short immersive bootcamps</b> that aim to introduce particip
 
 <p> <b> Level 1: </b> Libft </p>
 
->Libft is the first project as former student. It consists of a static library with recoded standard functions in C that runs and compiles the code using a Makefile. The library can be used as a support in future school's projects, since it's not allowed to use the original functions.
+>Libft is the first project as a former student. It consists of a static library with recoded standard functions in C that runs and compiles the code using a Makefile. The library can be used as a support in future school's projects, since it's not allowed to use the original functions.
 
 
 <hr>
