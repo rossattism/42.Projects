@@ -1,5 +1,17 @@
 <h1 align="center"> 42 Projects </h1>
 
+```
+                                                   /* ************************** */
+                                                   /*          :::     ::::::::  */
+                                                   /*         :+:     :+:   :+:  */
+                                                   /*      +:+ +:+        +:+    */
+                                                   /*     +#+  +:+      +#+      */
+                                                   /*  +#+#+#+#+#+    +#+        */
+                                                   /*       #+#     #+#          */
+                                                   /*      ###    ########.fr    */
+                                                   /* ************************** */
+```
+
 <p align="center">
 <i> Repository with projects developed in 42 Malaga programming school starting from <code>17/Oct/2022</code> to <code>--/--/--</code>.</i><br />
 </p>
