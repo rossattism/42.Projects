@@ -31,11 +31,11 @@ Click <a href="https://42.fr/en/homepage/" />here</a> for further details.
 ## Piscines
 The Piscines are <b>short immersive bootcamps</b> that aim to introduce participants to programming languages. </i>
 
-<p> <b> <a href="https://github.com/RossattiSM/42.Piscine" />C Piscine</a> </b> </p>
+<p> <b> <a href="https://github.com/rossattism/42.Piscine" />C Piscine</a> </b> </p>
 
 >A 26-day C programming bootcamp which is the selection process for becoming a former student.
 
-<p> <b> <a href="https://github.com/RossattiSM/42.Discovery-Web" />Discovery Web Piscine</a> </b> </p>
+<p> <b> <a href="https://github.com/rossattism/42.Discovery-Web" />Discovery Web Piscine</a> </b> </p>
 
 >A 5-day web bootcamp which aims to introduce participants to 42's methodology and web development.
 
@@ -47,7 +47,7 @@ The Piscines are <b>short immersive bootcamps</b> that aim to introduce particip
 
 <hr>
 <a href="https://www.linkedin.com/in/rossattism/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png?raw=true" alt="Linkedin Logo" style="width: 20px; height: 20px" /></a> &nbsp;
-<a href="https://github.com/RossattiSM"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true" alt="GitHub logo" style="width: 20px; height: 20px" /></a> &nbsp;
+<a href="https://github.com/rossattism"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true" alt="GitHub logo" style="width: 20px; height: 20px" /></a> &nbsp;
 <a href="https://open.spotify.com/user/21bih47uzlxunyyi4gbbvyvty"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Spotify_black.png?raw=true" alt="Spotify logo" style="width: 20px; height: 20px" /></a> &nbsp;
-<a href="mailto:smrossatti@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png?raw=true" alt="GMAIL logo" style="width: 20px; height: 20px" /></a> &nbsp;
+<a href="mailto:rossattism@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png?raw=true" alt="GMAIL logo" style="width: 20px; height: 20px" /></a> &nbsp;
 <a href="https://shields.io/"><img src="https://img.shields.io/badge/Made with-♥-black" /></a>
