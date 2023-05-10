@@ -41,7 +41,7 @@ The Piscines are <b>short immersive bootcamps</b> that aim to introduce particip
 
 ## Cursus
 
-<p> <b> 1️⃣ </b> Libft </p>
+<p> <b> 1️⃣ </b> <a href="https://github.com/rossattism/42.Libft">Libft</a> </p>
 
 >Libft is the first project as a former student. It consists of a static library with recoded standard functions in C that runs and compiles the code using a Makefile. The library can be used as a support in future school's projects, since it's not allowed to use the original functions.
 
